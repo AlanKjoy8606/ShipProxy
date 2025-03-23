@@ -1,0 +1,1 @@
+The Ship Proxy project is a Spring Boot application designed to act as a proxy server that efficiently forwards client requests to an offshore server and returns the response. The primary goal is to maintain a single TCP connection with the offshore server while handling multiple client requests asynchronously.
