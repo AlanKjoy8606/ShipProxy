@@ -1,6 +1,0 @@
-com\ship\proxy\slave\config\NettyClientHandler.class
-com\ship\proxy\slave\config\NettyClientInitializer.class
-com\ship\proxy\slave\ShipProxyServerSlaveApplication.class
-com\ship\proxy\slave\controller\ProxyController.class
-com\ship\proxy\slave\config\ClientProxyConfig.class
-com\ship\proxy\slave\controller\ProxyController$OffshoreProxyGateway.class
